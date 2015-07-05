@@ -1,0 +1,829 @@
+Immunofluorescence reaction is widely used for express-diagnostics of many bacterial and viral infections. Choose the type of the microscope needed for this reaction.
+Light microscope. 				
+Phase-contrast microscope.
+Electron microscope.
+Fluorescence microscope. 			
+Dark-field microscope.
+Fluorescence microscope. 			
+1
+The essential drawback of the microscopy method of infection diagnostics is insufficient informativeness caused by morphologic similarity of many microorganisms. Which of the following can increase the informativeness?
+Radioimmunoassay. 
+Coombs' test.
+ELISA. 
+Opsonization reaction.
+Immunofluorescence testing.
+Immunofluorescence testing.
+1
+Immunofluorescence test belongs to widely used rapid (express) methods of  infectious diseases diagnostics. Which properties of bacteria are estimated for their identification at this type of testing?
+Morphological and tinctorial
+Morphological and antigenic
+Antigenic and immunogenic
+Cultural and biochemical
+Biochemical and tinctorial
+Morphological and antigenic
+1
+During microbiology lesson students have acquainted with microscopy method of laboratory diagnostics. Which property of bacteria may be studied with this method?
+Morphological, tinctorial
+Cultural
+Antigenic
+Toxigenic
+Biochemical
+Morphological, tinctorial
+1
+Furuncle pus smear showed spherical microbes arranged in grape-like clusters. Name these microorganisms.
+Staphilococci. 
+Diplococci.
+Micrococci. 
+Streptococci.
+Tetracocci.
+Staphilococci. 
+1
+At microscopy of the wound discharge gram-positive spherical cells arranged in “grape-like clusters “ have been revealed. Which group can seen microorganisms be belong to?
+Staphylococcus
+Clostridia
+Streptococcus
+Mycoplasma
+Gonococcus
+Staphylococcus
+1
+Students have been proposed to stain a mixture of bacteria by Gram's method and explain the mechanism of staining at a microbiology practical class. Name the morphological structures of bacteria that cause Gram-negative or Gram-positive staining of bacteria.
+CPM (cytoplasm membrane). 		
+Cell wall.
+Capsule. 
+Flagella. 
+Cytoplasm.
+Cell wall.
+1
+At laboratory diagnostics of many infectious diseases Gram staining technique is used. Which structure of microbial cell is responsible for ability of taking a dye? 
+Cytoplasmic membrane
+Cell wall
+Mesosomes
+Capsule
+Plasmids
+Cell wall
+1
+At staining of the smear from sputum collected from the patient with suspicious croupous pneumonia such dyes and reagents have been used as crystal violet and Lugol’s iodine solutions,  96% alcohol, and fuchsine solution. Which method of staining has been used in this case?
+Loeffler’s
+Neisser’s
+Gram’s
+Ziehl-Neelsen’s
+Romanovsky-Giemsa’s
+Gram’s
+1
+Microorganisms surrounded with capsule have been revealed in the smear prepared from the sputum of the patient with croupous pneumonia. Which chemical compound of revealed cellular organella is?
+RNA
+Polysaccharides
+Peptidoglycane
+Lipids
+DNA
+Polysaccharides
+1
+Microscopic investigation of pathological samples stained with Burri-Hins? technique from the patient with suspicious plague is made into the laboratory of life-threatining diseases. Which property of  causative agent does this method allow to study?
+Capsule production
+Spore formation
+Acid-fast property (acid resistance)
+Alkaline resistance
+Volutine granules presence
+Capsule production
+1
+At microscopy of bacterial culture club-shaped, blue- violet after staining by Gram microorganisms have been revealed. Which kind of microorganisms has been revealed?
+Streptococci
+Spirochetes
+Clostridia
+Actinomyces
+Diplococci
+Clostridia
+1
+Rod-shaped blue microorganisms with terminal  spherical red components are seen in the smear stained by Aujesky?s method. Which name of these components is ?
+Spores
+Flagella
+Pili (fimbria)
+Capsules
+Mesosomes
+Spores
+1
+A specimen stained by Ozheshko (Aujesky) method contains rod-like microorganisms stained blue with round terminal components stained red. What are these components called?
+Cilia
+Capsules
+Flagella
+Spores
+Mesosomes
+Spores
+1
+At staining of the sputum smear the such dyes and reagents have been used as: Ziehl?s fuchsine and methylene blue solutions, 5% sulpharic acid solution. Which method of staining has been used?
+Ziehl-Neelsen?s
+Hins-Burri?s
+Gram?s
+Peshkov?s
+Neisser?s
+Ziehl-Neelsen?s
+1
+The pure culture of Corynebacterium diphteria has been isolated from the patient. After smear preparation and staining by Neisser?s the next inclusion bodies have been revealed:
+Starch
+Glycogen
+Sulfur
+Volutin (polyphosphates)
+The drops of neutral lipids
+Volutin (polyphosphates)
+1
+Bacteriological method (pure culture isolation) is used for laboratory diagnostics of many infectious diseases. Which purpose of the first stage of investigation?
+Seeding of the collected samples
+Obtaining of the separated colonies
+Microscopy of the investigated samples
+Isolation and accumulation of the pure culture
+Identification of the isolated culture
+Seeding of the collected samples
+1
+DNA-polymerase from Thermus aquaticus is important reagent of the polymerase chain reaction (PCR). This microorganism is capable of growing at 100 0C and higher and it is:
+Thermophilic
+Mesophilic
+Psychrophilic
+Halophilic
+Chemolytotrophs
+Thermophilic
+1
+The event, at which prophage may replicate with bacterial chromosome in the same time, is known as:
+Transfection
+Lysogeny
+Transformation
+Modification
+Transduction 
+Lysogeny
+1
+It is known bacterial cells include additional genetic structures, which either exists as independent element autonomically from chromosome or integrates with it, and supplements such cell additional property. What is the name of this additional elements?
+Prophages
+Nucleotides
+Is-sequences
+Plasmids
+Migrating genes
+Plasmids
+1
+The procedure of human gene incorporation into bacterial genome with bacteriophage is used in biotechnological processes for production of therapeutic and prophylactic medicines. What is the name of such process?
+Transduction
+Transformation
+Translation
+Conjugation
+Deletion
+Transduction
+1
+Bacteriological examination of the feces of a 38-year-old woman, who had been ill with typhoid fever 1.5 year ago, revealed Salmonella typhi. Name the form of the infectious process.
+Bacteria carrying.
+Secondary infection.
+Reinfection. 
+Superinfection.
+Recidivation.
+Bacteria carrying.
+1
+A child, who is recovering after measles, has developed pneumonia caused by opportunists. What is the most probable form of this infection?
+Reinfection. 
+Secondary infection.
+Superinfection. 
+Persistence infection.
+Mixed infection.
+Secondary infection.
+1
+A patient recovered after Sonne shigellosis and was once more (repeatedly) infected with the same causative agent. What is such infection form called?
+Superinfection. 
+Recidivation (recurrence).	
+Reinfection.	
+Persistent infection.
+Chronic infection.
+Reinfection.
+1
+A patient has acute gonorrhea diagnosed. It is known, that the patient was ill with gonorrhea before, but was cured completely. Name the form of this infection.
+Secondary infection. 
+Superinfection.	
+Recidivation. 	
+Reinfection.
+Autoinfection.
+Reinfection.
+1
+A 2-year-old boy was not given APDT vaccine according to schedule. On his pharyngeal tonsils there were revealed microorganisms, which by morphological and biochemical properties are identical to Corynebacterium diphtheriae. But precipitation test in gel with antitoxic serum has been negative. What form of infectious process can this agent cause without urgent treatment?
+Asymptomatic bacteria carrying. 
+Easy nontoxic form of disease.	
+Toxic complicated form of disease.	
+Chronic disease with the damage of internal organs.
+Persistent infection.
+Asymptomatic bacteria carrying. 
+1
+It is known three links take part in development of infectious and epidemic process. The first link of infectious process is pathogenic microorganism. But what is the first link of epidemic process?
+Source of infection
+Dose of microorganism
+Way of penetration (invasion)
+Proper condition of environment
+Host reactivity
+Source of infection
+1
+The patient, 50 years old, had been treated with levomycetin (chloramphenicol)   due to enteric fever infection, but day after his state was getting worse and fever lifted up to 39,6 Ñ. How can you explain patient state?
+Absence of agent sensitivity to chloramphenicol
+Secondary infection arising
+Reinfection 
+Action of causative agent endotoxin
+Allergy 
+Action of causative agent endotoxin
+1
+Virulent factors are accounted at indication of etiological significance of microorganisms. Which virulent factor of streptococci can be estimated in clinical sample at light microscopy?
+Fimbria
+Capsule
+Protein A
+Protein M
+Inclusion bodies
+Capsule
+1
+Which from given virulent factors  that typical  for the most gram-negative bacteria acts the significant part in pathogenesis of disease, caused by these microorganisms?
+Exotoxin
+Endotoxin
+Invasive factor
+Capsule
+Hemorrhagic factor
+Endotoxin
+1
+Feces of child with enteritis  is emulsified into isotonic solution and the drop of emulsion is seeded onto selective medium (10% yolk-salt agar). Which virulent enzyme possessing aggressive property is revealed at this medium?
+Colicins
+Lecitinase
+Streptokinase
+Hemolysines
+Hyaluronidase 
+Lecitinase
+1
+Biological method of laboratory diagnostics is used into laboratory of life-threatening infections. Which property of causative agents is not studied at this method?
+Phage typing
+Biological
+Morphological
+Tinctorial
+Antigenic
+Phage typing
+1
+With the purpose of acceleration sugar-containing media were sterilized by live, non--pressurized steam in one day: during 30 minutes in the morning, in the evening, and in the afternoon. In what way should the media have been sterilized?
+During 1 hour. 
+During 15 min., three days in succession.
+During 30 min., two days in succession.
+During 30 min., three days in succession. 
+During 15 sec. twice a day.
+During 30 min., three days in succession. 
+1
+After practical activity in a laboratory students must put in order and disinfect their working place. Choose the chemical agent, which should be used.
+Ether. 
+Chloric acid.
+Formalin. 
+Chloroform.
+Chloramine
+Chloramine
+1
+In a laboratory, researches on tetanus diagnostics were carried out. What method of sterilization should be used to destroy the isolated cultures of tetanus pathogens?
+Autoclaving (steam under pressure). 
+Boiling.
+Tyndallization. 
+Dry heat.
+Pasteurization
+Autoclaving (steam under pressure). 
+1
+Control of instrument sterilization in autoclave was carried out with the help of a biologic method. What bacteria are the most rational to use as test-microorganisms?
+Spore forming. 		
+Capsule forming.	
+Acid-fast. 	
+Pathogenic
+Thermophilic.
+Spore forming. 		
+1
+To decontaminate air into the aseptic cabinet some measures have been carried out, that belong to usual sterilization methods.  Which method is the most appropriate for air decontamination after work?
+Ultraviolet radiation
+Burning
+With benzoic acid vapor
+With alcohol vapor
+Magnetic field
+Ultraviolet radiation
+1
+For carrying out of bacteriological researches into laboratory, have planned at next day,  it is necessary to prepare sterile Petri dishes, and pipettes. Which method of sterilization should be used at this case?
+Dry heat
+Fluid heat
+Tyndalization
+Pausterization
+Boiling
+Dry heat
+1
+The staphylococcus, isolated from the nasopharynx of a nurse during hospital infection, differs from the strain, isolated from patients, by containing R-plasmid. What feature can the hospital strain acquire due to the conjugation with the strain isolated from the nurse?
+Antibiotics resistance. 		
+Production of enterotoxin.
+Production of epidermolitic toxin. 	
+Coagulase production.
+Rough colonies formation.
+Antibiotics resistance. 		
+1
+Resistance of bacteria to antibiotics is due to presence into the cell of autonomic genetic structure, transmission of which is possible by conjugation. What is the name of this structure?
+Ent-plasmids
+Col-plasmids
+R-plasmids
+Transposons
+Prions
+R-plasmids
+1
+Pathogenic staphylococcus has been isolated from purulent wound of patient. Its sensitivity to antibiotics has been detected: penicillin – the zone of growth inhibition  8 mm, oxacillin – 9 mm, ampicillin – 10 mm, gentamycin – 22 mm, lincomycin – 11mm. Which antibiotic should be chosen for treatment?
+Gentamycin
+Oxacillin
+Ampicillin
+Lincomycin
+Penicillin
+Gentamycin
+1
+A patient consulted a stomatologist about purulent inflammation of his gums. What drug will be the most effective if it suspected that a causative agent is  an anaerobe?
+Metronidazole
+Gentamicin
+Co-trimoxazole
+Nitroxaline
+Oxacillin sodium
+Metronidazole
+1
+A patient with bacterial pneumonia was prescribed benzipenicillin. What is the mechanism of its antibacterial effect?
+Abnormal permeability of cytoplasmic membrane
+Antagonism with p-amino-benzoic acid
+Inhibition of synthesis of microorganism wall
+Inhibition of SH-groups of microorganism enzymes
+Inhibition of intracellular protein synthesis
+Inhibition of synthesis of microorganism wall
+1
+A 1.5-year-old boy who hasn't been inoculated according to the schedule contacted with a patient with measles. For emergency specific prevention the child was given donor ?-globulin. What kind of immunity developed in this case?
+Natural.							 
+Passive.	
+Antitoxic.
+Postvaccinal immunity.
+Local.
+Passive.	
+1
+Production of antibodies is one of the most important parts of immune response of an organism. Which type of cells actually secretes antibodies?
+T-lymphocytes. 				
+Macrophages.
+Plasma cells. 
+Microphages.
+T-helpers.
+Plasma cells. 
+1
+Humoral immune response takes significant part at many infectious diseases. Which action is not typical for antibody?
+Phagocytic
+Opsonizing
+Complement activation 
+Neutralizing
+Activation of cellular cytotoxicity
+Phagocytic
+1
+After BCG vaccination of infants immunity to tuberculosis is preserved until there are live bacteria of vaccine strain in the body. Name this kind of immunity.
+Type specific. 
+Humoral
+Non-sterile (infectious). 
+Innate.
+Crossed.
+Non-sterile (infectious). 
+1
+Scheduled vaccination against measles has been carried out in a kindergarten. What method can be used to check up the development of postvaccinal immunity?
+Bacteriological. 		
+Virologic.
+Serologic. 	
+Bacterioscopic.
+Allergic.
+Serologic. 	
+1
+First 3 months of life children rare fall ill with infectious diseases, that is connected with transmission of maternal antibody to baby through placenta and with milk. Which type of acquired immunity does child have at this age?
+Natural passive
+Natural active
+Artificial passive
+Artificial passive
+Constitutional
+Natural passive
+1
+There is outbreak of measles into maternal hospital. Which class of maternal antibody can provide newborn’s  insensibility (immunity) to measles virus?
+Ig G
+Ig M
+Ig A
+Ig D
+Ig E 
+Ig G
+1
+For prevention of infectious diseases immunization of population is made, and it accompanies with immunity formation. Cooperation of which immune competent cells is it necessary for effective formation of primary humoral immune response?
+Macrophages, T-cells, B-cells
+T-cells, plasma cells, B-cells
+Macrophages, plasma cells
+Mast and plasma cells
+B-cells and T-cells
+Macrophages, T-cells, B-cells
+1
+For prevention of infectious diseases immunization of population is made, and it accompanies with immunity formation. Cooperation of which immune competent cells is it necessary for effective formation of primary cellular immune response?
+Macrophages and  T-cells
+T-cells and plasma cells
+Macrophages and plasma cells
+Mast and plasma cells
+B-cells and T-cells
+Macrophages and  T-cells
+1
+Which type of interleukin is secreted by macrophages after phagocytosis for triggering of immune response to bacterial antigen?
+IL-1
+IL-2
+IL-3
+IL-5
+IL-6
+IL-1
+1
+After penetration into an organism bacteria are ingested by macrophages. What is the function of macrophages in immunocompetent cells cooperation at the first stage of immune response?
+Activation of NK-cells.
+T-killers activation.
+Processing and presentation of antigen to T-helpers.
+Antibodies production.
+Processing and presentation of antigen to T-killers.
+Processing and presentation of antigen to T-helpers.
+1
+Immunogram  of HIV patient  has been made, and abnormality of T-helper and T-supressor  ratio has been revealed. Which major surface molecules CD (cluster differentiation ) do T-helpers have? 
+CD2, CD3, CD4
+CD2, CD3, CD8
+CD19, CD21, CD22
+CD23, CD24, CD37
+CD16, CD56
+CD2, CD3, CD4
+1
+Donor skin has been transplanted to a patient with extensive burn. In 4-5 days the skin transplant adapted, but it became swollen and changed color on the eighth day. Ten days later it started to reject. Which cells take part in this process?
+T-lymphocytes. 	
+Erythrocytes.
+Basophiles. 
+Eosinophils.
+B-lymphocytes.
+T-lymphocytes. 	
+1
+Patient after transplantation of kidney graft has rejection. Which major effector cells take part in this immunological reaction?
+Cytotoxic T-cells
+B-cells
+Plasma cells
+Suppressor T -cells
+Helper T-cells
+Cytotoxic T-cells
+1
+After 1.5 months of liver transplantation the patient state was getting worse due to onset of graft rejection. Which factor of immune system acts the predominant part in this reaction?
+T-killers
+Interleukin-I
+Natural killers
+B-cells
+T-helpers
+T-killers
+1
+The boy, 11 years old, has ekzematous rash onto the trunk and legs. History revealed otitis, pneumonia, furunculosis. Laboratory assay shows thrombocytopenia, low activity of T-helpers and T-suppressors, decreasing of IgM level at normal data for Iga and IgG. Which type of immunodeficiency is at this case?
+Wiskott-Aldrich syndrome
+Louis-Barr syndrome
+DeGeorgy syndrome
+Chediak-Higashi syndrome
+Swiss syndrome
+Wiskott-Aldrich syndrome
+1
+The child, 2 years old, suffering from severe form of chicken pox, has face defects, mongoloid slant. History revealed spasms, oral cavity mycosis . There is lymphocytopenia at normal level of B-cells and immunoglobulins into the blood assay. Which immunodeficiency  syndrome does child have?
+DiGeorgy syndrome
+Wiskott-Aldrich syndrome
+Louis-Barr syndrome
+Kleinefelter’s syndrome
+Shereshevsky- Turner’s  syndrome
+DiGeorgy syndrome
+1
+Immunological tests of a patient with clinical symptoms of immunodeficiency have been carried out. Significant decrease of cells, forming rosettes with sheep erythrocytes, has been revealed. What conclusion should be made on the basis of analysis data?
+Decrease of complement system level. 
+Decrease of B-cells level.
+Decrease of natural killers (NK-cells) level. 
+Decrease of T-cells level.
+Decrease of thrombocytes (platelets) quantity
+Decrease of T-cells level.
+1
+A patient with clinical symptoms of immunodeficiency with invariable quantity and functional activity of T-and B-cells is found to have a molecular level defect. This defect is accompanied by the disorder of antigen-presenting function of immunocompetent cells. Name these cells.
+NK-cells. 
+T- and B-lymphocytes.
+Macrophages and monocytes. 				
+Fibroblasts, T- and B-lymphocytes.
+B-lymphocytes.
+Macrophages and monocytes. 				
+1
+A patient with clinical symptoms of primary immunodeficiency is found to have a defect of antigen-presenting function of immunocompetent cells. The structure defect of what cells is possible? 
+NK-cells
+Â- cells
+Ò- cells
+Plasma cells
+Macrophages, monocytes
+Macrophages, monocytes
+1
+Acquired defect of immune system of a patient is diagnosed - a disorder of complement system activation by the classical pathway against the background of the sufficient content of system components. Defect of antibody production is suspected. Decrease in number of what antibodies can be expected first of all?
+IgM, IgA.  	
+IgA, IgG.    		
+IgD, IgG.      	
+IgE, IgG. 		
+IgM, IgG.
+IgM, IgG.
+1
+A 37-year-old woman periodically had infectious diseases of bacterial genesis during a year. Their clinical course was extremely prolonged, remissions were short-term. Hypogamma­ globulinemia was revealed by examination. The functional defect of what cells might be the direct cause of the disease?
+Neutrophiles. 
+Eosinophils.
+B-cells. 
+Macrophages.
+Basophiles.
+B-cells. 
+1
+Young woman with blood group A had suffered in road accident , and she was transfused with donor blood of group B by mistake. Posttransfusion reaction set up, leading mechanism of which is immunopathological reaction.  Which type does it belong to?
+Cytotoxic
+Anaphylaxis
+Immune complex
+Cellular
+Stimulating 
+Cytotoxic
+1
+A 54-year-old woman referred to a doctor with complaints of hen's eggs intolerance, which appeared recently. Antihistamines prescribed by the doctor slightly improved the status of the patient. What antibodies could provide the development of this reaction?
+IgA.
+IgE. 		
+IgD 		
+IgG. 	
+IgM.
+IgE. 		
+1
+For detection of sensitivity to antibiotic patient is injected with 0.2 ml of penicillin solution intracutaneously. After 10 min hyperemia and edema appear in the site of injection. Which type according Cumbs-Jelly’s classification has this reaction belong to?
+Anaphylaxis (phenomenon Auveri)
+Cytotoxic
+Delayed type of hypersensitivity
+Reaction  is like Artus phenomenon
+Tuberculin type reaction
+Anaphylaxis (phenomenon Auveri)
+1
+At flat repair woman suddenly has had bout of breathless with sensation of lack of air, difficulties with breathing out, dry cough and anxiety. Bronchial asthma has been diagnosed. Which allergy mediator causes such effects?
+Histamine
+Serotonin
+Prostaglandin E
+Interleukin I
+Interleukin 6
+Histamine
+1
+The woman, 40 years old, visited doctor with complains onto itching, reddening, burning sensation of the checks. Vanishing creme had been used 1 hour ago. Which type of allergy reaction of I  group due to Combs and Jelly does patient have?
+Quincke’s edema
+Bronchial asthma
+Anaphylactic shock
+Urticaria
+Pollen allergy
+Quincke’s edema
+1
+The worker of factory with 20 years record of work has had contact dermatitis of hands. Which type of immunological disorder does such illness belong to?
+Delayed type of allergy
+Primary immunodeficiency
+Immediate type of allergy
+B-cell immunodeficiency
+T-cell immunodeficiency
+Delayed type of allergy
+1
+After some minutes  of injection made for patient with tetanus breathless and frequent pulse appeared, blood pressure decreased. Which drug was the most probable reason of complication?
+Sulfonamide
+Donor gamma-globulin
+Anatoxin (Toxoid)
+Antibiotic
+Antitoxic serum
+Antitoxic serum
+1
+After 8 days of antitetanus serum injection patient with contaminated wound of the foot has fever (38 Ñ), joint pain, rash and itching. Blood assay demonstrated leucopenia and thrombocytopenia. Which type of allergy reaction arises in this case?
+Delayed type of hypersensitivity
+Cytotoxic 
+Anaphylaxis
+Immune complex 
+Stimulating
+Immune complex 
+1
+The patient, female, 27 years old, had taken eyes drops, including penicillin. After some minutes she had itching and burning of body, edema of lips and eyelids, whistle cough; blood pressure started to decrease. Which kind of Ig takes part in such allergic reaction?
+IgG and IgD
+IgA and IgM 
+IgE and IgG 
+IgM and IgG 
+IgM and IgD
+IgE and IgG 
+1
+Woman had being suffered from pollen allergy for 25 years. The treatment had been made with desensitization method (periodic injection with small doses of allergens) and allowed to heal. What type of mechanism for inhibition of allergy was the most probable?
+Accumulation of T-suppressors and IgG
+Basophiles inactivation
+Blockage of cellular histamine and heparin receptors
+Formation of immune complex
+Decreasing of complement concentration into serum 
+Accumulation of T-suppressors and IgG
+1
+Numerous vaccine preparations have been used to induce human active immunity. Which preparation is presented by live attenuated bacteria?
+APDT  (DPT) vaccine.
+BCG vaccine.
+Salk's vaccine.
+TABTe vaccine.					
+Hepatitis B vaccine.
+BCG vaccine.
+1
+The process of killed vaccine creation consists from several steps. The choice of vaccine strain has crucial significance at this event . Choose  the most important criterion for sampling:
+To take strains with maximal virulence
+To use bacteria with prominent biochemical activity
+To select the strains with low pathogenecity
+To use strains with low antigenecity and immunogenecity
+To take resistant strains to antibiotics
+To take strains with maximal virulence
+1
+During outbreak of diphtheria DT vaccine was used for adult immunization. Which type of immunity is created by this preparation?
+Natural
+Antitoxic
+Cellular
+Passive
+Post infectious
+Antitoxic
+1
+In region , where epicenter of rabies among wild animals has been registered, the bitten with wild dog man visited policlinics. For rabies prevention he was injected with antirabies vaccine. Which type of vaccine  does this medicine belong to?
+Attenuated
+Inactivated
+Molecular
+Anatoxin (toxoid)
+Synthetic
+Attenuated
+1
+Schedule vaccination against measles has been made in child community. Which method can be used to check efficacy of immunization?
+Virological
+Allergic test (allergic probe)
+Immunological
+Biological
+Viroscopic (microscopy)
+Immunological
+1
+It is necessary to provide vaccines for schedule immunization into kindergarten. Which property should vaccine have?
+Immunogenecity, areactivity
+Immunogenecity, areactivity, avirulence
+Avirulence, easy technology of production
+Areactivity, easy usage
+Immunogenecity
+Immunogenecity, areactivity, avirulence
+1
+Bacterial preparation institute creates vaccines for schedule immunization. What is the name of vaccine composed from microbial cells and toxoid of another causative agent?
+Chemical
+Gene engineered
+Associated
+Autovaccine
+Combined 
+Associated
+1
+Immunization against whooping cough is planned in kindergarten. Which medicine should be used for this purpose? 
+Type specific serum
+BCG vaccine
+Normal gamma-globulin
+DTT
+DPT vaccine (ADPT)
+DPT vaccine (ADPT)
+1
+When using treatment antitoxic serums a patient is always given precisely defined doses. In what units is the activity of antitoxic antidiphtheric serum measured?
+International.	
+Flocculation.
+Antigenic.					
+Agglutination.
+Neutralization.
+International.	
+1
+The sole medicine, that allow to  treat successfully such toxic infection as diphtheria, tetanus, and botulism, is antitoxic sera (antitoxins). Choose the way which is used to obtain such sera:
+Hyper immunization of horses with medicine obtained from toxin
+Enzymatic dialysis (Diaferm)
+Immunization of horses with toxigenic bacteria
+Hyper immunization of rabbits with corresponding toxins with following purification
+Usage of recombinant techniques
+Hyper immunization of horses with medicine obtained from toxin
+1
+In traumatologic department patient is made primary surgery of wound and the next drug is given for passive immunity creation:
+Vaccines
+Immune sera
+Toxoids
+Antibiotics
+Vitamins
+Immune sera
+1
+A patient referred to a doctor on the second week of illness, which resembled of typhoid-paratyphoid disease by clinicoepidemiologic  findings. The doctor decided to confirm the diagnosis by detecting specific antibodies. What preparation should be used for this purpose?
+Adsorbed monoreceptor serums. 
+Diagnostic serums.	
+Labeled serums. 	
+Monoclonal antibodies.
+Diagnosticums.	
+Diagnosticums.	
+1
+Serologic diagnostics of infectious diseases is based on specific antigen-antibody interaction. Name the serological reaction, which consists in microorganisms clumping under the influence of specific antibodies in the presence of electrolyte.
+Hemadsorption. 
+Precipitation.	
+Complement fixation test. 
+Agglutination.
+Neutralization.
+Agglutination.
+1
+Pure culture isolated from the blood at suspicious enteric fever is investigated in bacteriological laboratory. Which serological test should be made to study its antigenic structure?
+Precipitation
+Agglutination
+CFT
+ELISA  (IFA)
+Flocculation
+Agglutination
+1
+For serodiagnostics of enteric fever test is made by next way: diagnosticums of three types are added to different dilution of patient serum. Test result is registered by deposit appearance, consisting from clumped bacteria. Which mechanism of interaction between antigen and antibody takes place at this test?
+Agglutination
+Precipitation
+Lysis
+Bacteriolysis
+Hemolysis 
+Agglutination
+1
+At negative result of bacteriological method patient diagnosis is made with serology. Thereafter clumping of bacteria under the influence of antibody is named:
+Complement fixation test
+Precipitation
+Agglutination
+Lysis
+Immobilization
+Agglutination
+1
+Serologic diagnostics of infectious diseases is based on specific antigen-antibody interaction. Name the serological reaction, during which highly refined antigens are adsorbed on erythrocytes.
+Neutralization. 
+Precipitation.	
+Complement fixation test. 
+Hemadsorption.
+Indirect hemagglutination.
+Indirect hemagglutination.
+1
+Effective diagnostics of enteric bacteria carrying is based on detecting antibodies to certain bacteria antigens during indirect hemagglutination test. Name the standard preparation which should be used.
+Sheep erythrocytes and hemolytic serum.
+Antibodies against immunoglobulins of basic classes.
+Monoclonal antibodies.
+Monoreceptor diagnostic serum.
+Erythrocytic diagnosticum (erythrocyte adsorbed by bacteria antigens).
+Erythrocytic diagnosticum (erythrocyte adsorbed by bacteria antigens).
+1
+Serologic diagnostics of infectious diseases is based on specific antigen-antibody interaction. How is the antigen sedimentation from solution reaction under the influence of immune serum in the presence of electrolyte called?
+Neutralization. 
+Agglutination.
+Complement fixation. 	
+Hemadsorption.
+Precipitation.	
+Precipitation.	
+1
+Bloodstains are revealed on the clothes of a person accused of a murder. What test can prove that the blood is human?
+Neutralization.
+Immunofluorescence test. 
+Complement fixation test.	
+Agglutination.
+Precipitation.
+Precipitation.
+1
+Indirect immunofluorescence test has been used to detect toxoplasmas antibodies in the blood serum of a pregnant woman. At first, the fixed smear of toxoplasmas was processed with the investigated serum. With what should the specimen be processed at the following stage?
+Luminescent serum against human immunoglobulins.
+Fluorescent solution. 
+Human normal immunoglobulin.
+Diagnostic serum containing toxoplasmas antibodies.
+Serum containing fluorescent-labeled toxoplasmas antibodies.
+Luminescent serum against human immunoglobulins.
+1
+During outbreak of acute respiratory infection to diagnose influenza rapid (express) diagnostics is made that is based onto revealing of specific virus antigen in clinical samples. Which test is used for this purpose?
+Complement fixation test
+Immunofluorescence
+Precipitation 
+Opsonization
+Agglutination 
+Immunofluorescence
+1
+The outbreak of infection probably of virus etiology was registered in kindergarten. It is necessary to plan antiepidemic measures . Which reactions (tests) or laboratory diagnostics methods should be used first for rapid (fast) and timely decryption this outbreak?
+Immunofluorescence microscopy
+Electron microscopy
+Virological method
+Serological method
+Light microscopy of native material
+Immunofluorescence microscopy
+1
+A patient is hospitalized with the previous diagnosis of hepatitis B. To diagnose the disease a  serological reaction based on interaction of antigen and antibody, chemically linked to peroxidase or alkaline phosphatase, was carried out. Name this reaction.
+Complement fixation test.
+Radioimmunoassay.
+Immunofluorescence test. 
+Enzyme immunoassay.
+Immobilization.	
+Enzyme immunoassay.
+1
+Causative agent antigens can be revealed in blood of patients with different infectious diseases. What reaction should be used, taking into account that antigenemia level is low?
+ELISA. 	
+Agglutination test.
+Indirect hemagglutination test.			
+Latex agglutination method.
+Immunoelectrophoresis.
+ELISA. 	
+1
+A causative agent has been isolated from a patient with acute gastroenteritis. It should be identified by antigen structure. Which serological reaction should be used?
+Precipitation. 	
+Complement fixation test.
+Neutralization.	
+Agglutination.
+Opsonization
+Agglutination.
+1
+A patient with a suspicion of the chronic form of gonorrhea was admitted to a hospital. Choose a two-system serological reaction for detecting specific antibodies in the serum.
+Complement fixation test. 	
+Neutralization.
+Agglutination. 
+Radioimmunoassay.
+Enzyme immunoassay.
+Complement fixation test. 	
+1
+Hemolytic serum against sheep erythrocytes is necessary for work in the laboratory, where serologic diagnostics of infectious diseases is carried out. Name the test, during which the serum is used.
+Viral hemagglutination test. 	
+Indirect hemagglutination test.
+Test for the diagnostics of new­ borns' diseases. 
+Passive hemagglutination.
+Complement fixation test.
+Complement fixation test.
+0
+
+
+	
+
+

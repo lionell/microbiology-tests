@@ -1,0 +1,640 @@
+For virus indication into cell culture a method is used that based onto changes of  pH of culture medium during cultivation viruses in vitro. What is the name of this virus indication method?
+Color test
+Cytopathic effect
+Hemagglutination test
+Hemadsorption
+Plaque formation
+Color test
+1
+For vaccine preparation microbial cultures are propagated onto artificial nutrient media. Which microorganisms do not grow into artificial nutrient media?
+Viruses
+Fungi
+Actynomyces
+Protozoa
+Micoplasma
+Viruses
+1
+A sample from patient with diagnosis “Influenza” was sent to laboratory. During virological investigation hemadsorption test has been used. Which viruses can be revealed with this test? 
+All of naked viruses
+All of enveloped viruses
+Viruses possessing hemagglutinins on their surface
+DNA-including viruses
+Any virus
+Viruses possessing hemagglutinins on their surface
+1
+During virological investigation of a sample, collected from patient A., 15 year old, with suspicious infectious mononucleosis, Epstein-Barr virus (EBV) was revealed. Which order of DNA-including viruses replication into the host cell is correct?
+Deproteinization, transcription, protein synthesis, virus DNA synthesis
+Deproteinization, protein synthesis, transcription, virus DNA synthesis
+Transcription, protein synthesis, deproteinization, virus DNA synthesis
+Protein synthesis, deproteinization, transcription,, virus DNA synthesis
+No one
+Deproteinization, transcription, protein synthesis, virus DNA synthesis
+1
+Papilloma virus,  the 16th type, was revealed with PCR in a patient with cervical malignancy. It is known, this virus integrates own DNA with host genome. What is the name of virus integrated with cell genome?
+Provirus
+Viroid
+Virusoid
+Virion
+Prion 
+Provirus
+1
+A sample from patient with diagnosis “ARVI” was sent to laboratory for virological investigation. What is purpose of virus typing isolated from patient’s sample?
+Etiological diagnostics of virus infection
+To study biological properties of viruses
+To study physico-chemical properties of viruses
+Development of non-specific prevention measures
+To study virus resistance to environmental factors action
+Etiological diagnostics of virus infection
+1
+A child, 1.5 year-old, had been suspected with adenovirus infection by physician. With CFT antibody titer to adenovirus in patient serum was revealed as 1:20. During recovery (after 2 weeks) serology was repeated. Which result confirms previous diagnosis?
+Decreasing of antibody titer
+Increasing of antibody titer
+The same titer of antibody
+Negative result of CFT
+Uncomplete antibody revealing 
+Increasing of antibody titer
+1
+To confirm diagnosis of acute respiratory virus infection with laboratory methods a doctor decided to use serological method of diagnostics. Which way should material be collected for this investigation?
+At onset of disease (as early as possible) and after 2-3 weeks
+At onset of disease (as early as possible)
+At the end of disease, in period of symptoms fading
+At peak of disease, when all clinical symptoms are bright
+At maximal data of body temperature
+At onset of disease (as early as possible) and after 2-3 weeks
+1
+A district doctor recommended interferone usage to prevent influenza. What is mechanism of action of this preparation?
+Damage maturation of a virus
+Inhibition of virus releasing from cell
+Blockage of translation initiation  and destruction virus-specific m-RNA
+Blockage of virus deproteinization
+Inhibition of virus adsorption onto cell receptors
+Blockage of translation initiation  and destruction virus-specific m-RNA
+1
+For prevention of post-surgery complication abdominal cavity of patient was inoculated with 50 ml of liquid polyvalent staphylococcal phage. What is mechanism of this drug action?
+Lyses of microbial cells
+Neutralization of staphylococcal toxins
+Immunity activation
+Inhibition  of causative agent growth
+Disorder of virulent enzymes biosynthesis
+Lyses of microbial cells
+1
+A child, 8 month old, has intestinal disorders. Qualitative and quantitative assay of intestinal microbiota revealed disbiosis.  Coli-proteus bacteriophage is administered for treatment. What is mechanism of this drug action?
+Cause lyses of opportunistic enterobacteria
+Promotion multiplication of Bifidibacteria
+Enhance antagonistic effect of Lactobacilli
+Stimulate synthesis of secretory IgA
+Intencify barrier properties of intestinal mucous membrane
+Cause lyses of opportunistic enterobacteria
+1
+For gene-ingeneering insulin production a strain of E.coli was created, that includes gene determining synthesis of this hormone. It is the most reasonable in strain-producer creation to use vector which causes destruction of E.coli cell after task is made. Which kind of genetic structure is this?
+Plasmids
+Bacteriophage
+Isolated DNA-fragment
+Isolated RNA-fragment
+Transposon 
+Bacteriophage
+1
+It is known that human immunodeficiency virus belongs to Retroviridae family. What basic feature characterizes this family?
+Simple viruses, which affect only human beings.
+Contain RNA of negative polarity.
+Presence of reverse transcriptase enzyme.
+Nucleic acid does not integrate into the genome of the host. 
+DNA-containing viruses which cause chronic infections.
+Presence of reverse transcriptase enzyme.
+1
+It was revealed that T-lymphocytes were affected by HIV. Virus enzyme – reverse transcriptase (RNA-dependent DNA-polymerase) – catalyze the synthesis of:
+Viral DNA on DNA matrix
+DNA on virus ribosomal RNA
+Virus informational RNA (m-RNA) on the matrix of DNA
+mRNA on the matrix of virus protein
+DNA on the matrix of virus mRNA
+DNA on the matrix of virus mRNA
+1
+Rather often the cause of acquired immunodeficiency is the infectious damage of organism which is characterized by causative agents' reproduction directly in immune system cells and destruction of these cells. Choose such disease among given below.
+AIDS.				
+Diphtheria.		
+Poliomyelitis.
+Cholera.	
+Epidemic typhus
+AIDS.				
+1
+During autopsy there were dark-red spots, plaques and nodes (Kaposi’s sarcoma) on the skin of distal part of low extremities. Acute pneumonia was also revealed, caused with Pneumocysts.  What disease are these changes typical for? 
+AIDS
+Anthrax
+Diphtheria
+Influenza
+Measles
+AIDS
+1
+The most often causative agent of opportunistic pneumonia at HIV/AIDS infection is:
+Pneumocysts
+Staphylococci
+Streptococci
+Cytomegoloviruses
+klebsiella
+Pneumocysts
+1
+A patient, homosexual man, was admitted to hospital with complaints of general weakness, dry cough, and fever.  Bilateral root infiltrates were indicated with X-ray examination. What is the most probable reason of such pneumonia?
+Pneumocysts
+Staphylococci
+Streptococci
+Mycoplasma
+Klebsiella
+Pneumocysts
+1
+S. aureus associated with S. epidermidis is isolated from numerous skin pustules of a 25-year-old patient. Sputum analysis detects Pneumocysts carinii; feces analysis detects Cryptosporidia, Proteus vulgaris, and fungi of Candida genus. What disease is characterized by such multiple infection caused by opportunistic microorganisms?
+AIDS.
+Diabetes mellitus.	
+Sepsis     	
+Dysbacteriosis.  
+Drug agranulocytosis.
+AIDS.
+1
+A 20-year-old patient has AIDS diagnosed. What cells populations are the most sensitive to the human immunodeficiency virus?
+B-lymphocytes.	
+Hepatocytes.	
+Endotheliocytes.
+Epitheliocytes.	
+T-helpers.
+T-helpers.
+1
+Human immunodeficiency virus, having on its surface antigens gp41 and gpl20, interacts with the target cells of an organism. Which human lymphocytes marker can be complementary connected with gpl20 of the virus?
+CD 4.	
+CD 3.	
+CD 8.	
+CD 19.		
+CD 28.
+CD 4.	
+1
+One from perspective area of drug elaboration for treatment of HIV is creation of medicines that competitively block receptors onto lymphocytes and miss adsorption viruses onto them. What structure is talking about? 
+CD 4
+GP120
+GP41
+CD 28
+CD 29
+CD 4
+1
+A donor, clinically healthy 25-year-old man, should be examined for carriage of human immunodeficiency virus.  What exactly will be revealed at donor blood assay, if he is really infected?
+Virus RNA
+Antibody to viral glycoproteins
+Revertase enzyme
+Provirus
+Decreasing of T-cells number
+Revertase enzyme
+1
+A child, 3 –year-old, has been transfused with HIV-positive blood. Next 6 months infection has not being developed, but carrier state was formed, that was connected with transformation of causative agent into provirus form. What is provirus?
+Double-stranded DNA
+Single-stranded RNA
+Virus enzyme complex
+Nucleocapsid of virus without surface envelope
+Glycoprotein component of supercapsid 
+Double-stranded DNA
+1
+A patient was informed that serology for detection of HIV-infection consists from 2 steps.  Which test is used for serum investigation to detect antiviral antibody at first stage?
+ELISA
+Immunoblotting
+RIA
+IFA	
+PHA-test
+ELISA
+1
+At examination of young man in AIDS center ELISA test with HIV antigens was positive. He has no complaints of healthy state. What does ELISA result indicate?
+HIV-infection
+Persistence of HBI
+State after AIDS
+AIDS
+HBV infection
+HIV-infection
+1
+During checking the donors' blood at a hemotransfusion station antibodies to human immunodeficiency virus have been revealed in the serum. What method is recommended for the confirmation of HIV-infection diagnosis?
+Complement fixation test. 	
+Electron microscopy.
+Western blotting (immunoblotting). 
+Immunofluorescence test.
+Radioimmunoassay
+Western blotting (immunoblotting). 
+1
+During immunoblot analysis protein gp120 has been revealed in blood serum. What infection can be diagnosed by this antigen detecting?
+Virus hepatitis B. 
+HIV-infection.	
+Tuberculosis.
+Syphilis.	
+Poliomyelitis.
+HIV-infection.	
+1
+What method of laboratory diagnostics is the most informative during seronegative period of HIV-infection?
+PCR
+ELISA for antibody detection
+Western-blot for antibody detection
+Hemagglutination reaction
+ELISA for antigen detection
+PCR
+1
+Blood serum examination of a patient with signs of immunodeficiency has shown antibodies to proteins gpl20 and gp41. Which disease is confirmed by this result?
+TORCH-infection 
+HLTV-1-infection.
+HIV-infection.	
+HBV-infection.
+ECHO-virus infection.
+HIV-infection.	
+1
+In a specialized clinic a patient has been prescribed a combination of preparations, which inhibit HIV reproduction. To what group do the preparations, which are obligatory used in complex antiviral treatment, belong?
+Interleukin. 
+Broad spectrum antibiotics.
+Nucleosides analogs. 	
+Nystatin.
+Biseptol.
+Nucleosides analogs. 	
+1
+During the outbreak of acute respiratory infection express-diagnostics method is used for diagnosing the flu. The method is based on detecting a specific virus antigen in the researched material (nasopharynx swab). Which serological reaction is used for this purpose?
+IFA. 
+Complement fixation.
+Agglutinations. 	
+Precipitation.
+Opsonization.
+IFA. 
+1
+Influenza virus contains internal antigens — nucleoprotein (NP), polymerase (PI, P2, P3), matrix protein (M), and surface antigens — hemagglutinin (H) and neuraminidase (N). Which of them play the basic role in the creation of the immunity to influenza infection?
+Hemagglutinin and neuraminidase. 
+Nucleoprotein antigens.
+Matrix protein.			
+Polymerase proteins.	
+Neuraminidase and nucleoprotein.
+Hemagglutinin and neuraminidase. 
+1
+A human corpse is sent to a department of morbid anatomy from an infectious hospital. The preliminary diagnosis is influenza. What researches are the most rational for confirmation of this diagnosis?
+Antibodies detecting during complement fixation test.
+Electron microscopic detecting of viruses.
+Detecting intracellular inclusions using light microscopy.
+Detecting high antibody titers during hemagglutination inhibition test.
+Isolation and serologic identification of virus.
+Isolation and serologic identification of virus.
+1
+Infecting of chicken embryos is the basic method of influenza virus isolation. Before introducing the researched material (nasopharyngial swab) into a chicken embryo a sample should be preliminary decontaminated with:
+Formalin. 	
+Alcohol.	
+Eagle's solution.
+Streptomycin and penicillin.
+Ether.
+Streptomycin and penicillin.
+1
+There is a flu epidemic in a city. Which preparation could be recommended for the nonspecific prevention of the disease?
+Remantadin.	
+Influenza vaccine.
+Benzylpenicillin sodium salt.
+Antigrippal immunoglobulin.	
+Antigrippal serum.
+Remantadin.	
+1
+At a neonatal unit the children's morbidity with respiratory virus infections caused by different groups of viruses has sharply increased. To prevent the spread of infection it was recommended to prescribe human leukocytic interferon. How should it be introduced?
+Via inhalation.
+Subcutaneously.		
+Through nasal meatuses.
+Orally.	
+Intramuscularly.
+Through nasal meatuses.
+1
+A doctor in charge of immunization program makes the list of preparations to prevent a season influenza epidemic. Which one of the following is the least allergenic and the most likely to develop active specific immunity?
+Subunit vaccine.	
+Live vaccine.		
+Killed vaccine.
+Donor ?-globulin.	
+?-interferon.
+Subunit vaccine.	
+1
+For prevention of the seasonal high rate of influenza in educational institutions doctors decided to carry out immunization of children and teenagers. Which preparation should be used for this purpose?
+Interferon. 
+Oxolin.
+Normal human immunoglobulin.
+Remantadin. 	
+Vaccine
+Vaccine
+1
+A chicken flu virus may cause mass infections among people in all countries of world. In this case it is talking about: 
+Epidemic
+Pandemic
+Epizootic
+Superinfection
+Reinfection
+Pandemic
+1
+A child complaints of sudden dry (“barking”) cough, rhinitis and increased temperature. A doctor, which has been called to patient, suspects parainfluenza infection. Which result of laboratory assay may confirm diagnosis of this patient?
+Hemadsorbing agent revealing in cell culture inoculated with nasopharyngeal washing
+Antibody to parainfluenza virus detection in serum
+Mouse death after infection with nasopharyngeal washing
+Revealing of specific virions at electron microscopy
+Formation of plaques under agar covering after infection of cell culture with nasopharyngeal washing
+Antibody to parainfluenza virus detection in serum
+1
+There were some cases of infection among children  2 weeks ago. Based onto clinical appearance and epidemiological history a doctor suspected outbreak of measles. Which variant of laboratory assay can confirm such suspicion?
+Rhinocytoscopy
+Immunofluorescence test
+Serology test
+Chicken embryo infection
+Allergy test
+Rhinocytoscopy
+1
+A 6-year-old boy has moderate rise of the body temperature and enlarged parotid glands. From the patient's saliva a virus was isolated. This virus can replicate in chicken embryos and tissue cultures, has hemagglutination properties, and causes symplasts formation in cells culture. Which organ is the most likely to be affected with the infection caused by this virus?
+Sexual glands.	
+Liver.	
+Lungs.
+Pharyngeal tonsils.	
+Brain.
+Sexual glands.	
+1
+During the microscopy of the cellular monolayer infected by the virus-containing material from a patient a laboratory doctor has diagnosed a respiratory syncytial virus infection. What changes are caused by this virus in cell culture?
+Symplasts formation. 
+Appearance of Negri bodies.
+Cluster-shaped destruction of mo­nolayer.
+Complete destruction of cellular monolayer. 
+Cells proliferation
+Symplasts formation. 
+1
+After examination of a child at second day of illness a doctor suspected respiratory-syncitial infection. Which variant of laboratory assay may confirm diagnosis during first days of hospitalization?
+Detection of RS-antigens in nasopharyngeal samples
+Serology (4-fold rising of antibody titer)
+Ig A detection in nasopharyngeal samples
+Ig M detection in nasopharyngeal samples
+High antibody titers to RS-antigens in patient serum
+Detection of RS-antigens in nasopharyngeal samples
+1
+A pregnant woman was examined for some infections during registration in maternity hospital. IgM antibody to rubella virus was detected into the serum. What does it indicate?
+Primary infection
+Chronic process
+A woman is healthy
+Exacerbation of chronic process
+Repeated infection with rubella virus
+Primary infection
+1
+A pregnant woman (first trimester of pregnancy), which had contact with rubella case, visited a doctor. Which recommendation may be given by doctor?
+Vitamines A,E
+Immunoglobulins
+Antibiotics
+Vitamines
+Induced abortion 
+Induced abortion 
+1
+A patient has headache, general weakness, cough, and fever. Clinical diagnosis ARVI is made. Which from listed viruses can be cause of this infection?
+The flu virus
+Adenovirus
+Respiratory-syncitial virus
+Coronavirus
+Any of them
+Any of them
+1
+High-sensitivity methods are used for checking the presence of virus hepatitis B antigens in donors' blood. Which test should be used?
+Solid-phase enzyme immunoassay.  (ELISA)
+Complement fixation.
+Immunoelectrophoresis.
+Indirect hemagglutination. 	
+Indirect immunofluorescence.
+Solid-phase enzyme immunoassay.  (ELISA)
+1
+HBs-antigen has been revealed during enzyme immunoassay in serum. What infection can be diagnosed by this antigen detecting?
+Syphilis. 			
+Virus hepatitis A.		
+AIDS.
+Tuberculosis.	
+Virus hepatitis B.
+Virus hepatitis B.
+1
+At donor blood assay one from the markers of hepatitis B infection was revealed.  What marker detection does not allow to use this blood for hemotransfusion?
+HBs-antigen
+HBc-antigen
+HAV
+Hbe-antibody
+Hbe-antigen
+HBs-antigen
+1
+A man, 25-year-old, has fever and jaundice. There were not neither HBsAg nor antibody to HBs-antigen in the blood assay asked by doctor. Which from additional test, most probably, may confirm presence of hepatitis B infection? 
+HBeAG
+Antibody to HBeAg
+Antibody to HBcAg
+HBxAg
+Delta-antigen
+HBeAG
+1
+A patient M. complaining of fever, general weakness, and jaundice, was admitted to infectious department.  A doctor suspected hepatitis B infection based onto event, that patient had hemotransfusion some months ago. What basic methods of laboratory diagnostics in case of hepatitis B are?
+Serology and gene diagnostics
+Isolation of a virus into cell culture and identification due to CPE
+Virion detection in the blood at electron microscopy
+Isolation of a virus into chicken embryo
+Biologic and bacteriologic
+Serology and gene diagnostics
+1
+The causative agent of hepatitis D (delta-agent) is a defective virus. It can replicate only in cells already infected with one of the viruses. Which one is possible with?
+Human immunodeficiency. 	
+Hepatitis A.			
+Hepatitis E.
+Epstein-Barr.
+Hepatitis B.
+Hepatitis B.
+1
+A patient with a very grave course of hepatitis B has been administered the examination for detecting the possible concomitant agent, which complicates the course of the basic disease. What agent is this?
+Delta-virus.	
+Hepatitis C virus.	
+Hepatitis G virus.
+Hepatitis E virus.
+HBs-antigen.
+Delta-virus.	
+1
+During an operative intervention (surgery) a patient had blood transfusion. In this blood the presence of the following causative agent should be checked:
+Hepatitis B virus.
+Hepatitis A virus.	
+Hepatitis E virus.
+Enteroviruses.	
+Adenoviruses.
+Hepatitis B virus.
+1
+A patient with jandice has next result of laboratory assay: HBsAg -, HBeAg -, antiHBsG +, anti HBsÌ-, HÑAg+. Which diagnosis is confirmed on the base of these data?
+Hepatitis C
+Chronic hepatitis B with low replicative activity
+Repeated infection with hepatitis B
+Hepatitis C, last hepatitis B
+Recurrence of hepatitis B
+Hepatitis C, last hepatitis B
+1
+During examination of a donor, which has not being given blood for a long time, antiHBs-antibody was revealed with ELISA.  What does positive result indicate in this case?
+About chronic hepatitis C
+About acute hepatitis C
+About chronic hepatitis B
+About recovery after hepatitis B
+About acute hepatitis B
+About recovery after hepatitis B
+1
+A patient with viral hepatitis A was admitted to an infectious hospital. What antibodies will be synthesized first in response to this virus reproduc­tion?
+IgA.	
+IgG.		
+IgM.		
+IgD.		
+IgE.
+IgM.		
+1
+In a settlement there is registered an outbreak of hepatitis associated with water factor. What virus could induce this outbreak?
+Hepatitis G.
+Hepatitis C.	
+Hepatitis D.
+Hepatitis A.
+Hepatitis B.
+Hepatitis A.
+1
+A month after returning from summer camp a child was hospitalized into infectious department. A doctor suspected hepatitis A infection based onto complaints. What is the most probable way of hepatitis A  infection in this case?
+Fecal-oral
+Via contact
+By inhalation of dust
+Transmissive  (via vector)
+Parenteral 
+Fecal-oral
+1
+A outbreak of hepatitis has been registered in region, that is connected with water factor. Which virus could cause this outbreak?
+Hepatitis G virus
+Hepatitis C virus
+Hepatitis D virus
+Hepatitis A (E!) virus
+Hepatitis B virus
+Hepatitis A (E!) virus
+1
+A person with general weakness, subfebrility, icteritious sclera and skin visited a hospital. It is known from history, that he was at seaside and ate seafood without cooking 2 weeks ago. Which markers detection allows confirming diagnosis “acute hepatitis E”?
+IgM anti-HEV
+IgM anti-HAV
+IgG anti-HEV
+IgG anti-HAV
+IgAs
+IgM anti-HEV
+1
+From a patient with acute intestinal infection enterovirus was obtained. To detect the serotype of the virus diagnostic sera were used. Which antibodies must the serums contain?
+To proteins of supercapsid.		
+To proteins of capsid.
+To non-structural virus proteins.	
+To virus enzymes.
+To virus hemagglutinin.
+To proteins of capsid.
+1
+For poliomyelitis serologic diagnostics paired serum samples of a patient are being examined. What should be used as antigen during virus neutralization test?
+Antigens of virus capsid proteins.	
+Viral complement-fixing antigens.
+Antigens inactivated by formalin.	
+Antigens-hemagglutinins.
+Live viruses.
+Live viruses.
+1
+A patient M., after returning from India, was suspected as ill with poliomyelitis. What investigations should be done for confirmation of diagnosis?
+Virus isolation from feces and its identification; serology of paired patient’s sera
+Indication of virus in feces with electron microscopy
+Blood microscopy with wet mount and hanging drop smears
+Investigation of lavage water of stomach with fluorescent antibody
+Inoculation of feces into enriched media
+Virus isolation from feces and its identification; serology of paired patient’s sera
+1
+The first vaccination against poliomyelitis should be done at 3 month's age with the use of Sabin vaccine. What class of immunoglobulins does not take part in postvaccinal immunity formation in this case?
+IgG.	
+IgE.
+IgA secretory.	
+IgM.
+IgA serum.
+IgE.
+1
+For confirmation of diagnosis “Coxsackie B virus infection” a sample from patient H., 16-years-old, was sent to laboratory. What should be used for virus isolation?
+Endo medium
+Blood agar
+Chicken embrion
+Meat-peptone broth
+Continuous cell lines (Hep-2, HeLa)
+Continuous cell lines (Hep-2, HeLa)
+1
+A culture of monkey cells (Vero) and a group of sucklings mouse were infected with an inoculum taken from a child with provisional diagnosis “enterovirus infection”. There was no cytopathic effect on the cell culture, but suckling mouse died. What enteric viruses might have caused disease of this child?
+Coxsackie B
+ECHO virus
+Coxsackie A
+Unclassified enteric viruses 68-71
+Polioviruses
+ECHO virus
+1
+A 3-year-old child with severe diarrhea has been ill for 3 days. Viruses with two-layered capsid and pseudo-envelope resemble to wheel with spikes have been revealed into feces with electron microscopy. What type of viruses  may it be?
+Rotavirus
+Coxsackie virus
+ECHO virus
+Coronavirus
+Reovirus
+Rotavirus
+1
+A patient has been bitten by a dog. The dog was caught, and it was established that the animal is ill with rabies. What vaccine is to be used for specific prevention of rabies of this patient?
+Live. 	
+Toxoid.	
+Chemical.
+Recombinant.	
+Synthetic.
+Live. 	
+1
+A patient with an avulsed wound of shin caused by a rabid animal bite was delivered to a hospital. What vaccine is necessary to introduce for prevention of rabies development?
+ADT vaccine.
+APDT vaccine.
+Antirabic vaccine.
+BCG.			
+TABTe.
+Antirabic vaccine.
+1
+A hunter has referred for medical aid concerning the bites of hands by a wounded fox. What basic aid should be given to him for the specific prevention of rabies?
+Washing of the wound with soap solution. 
+Surgical treatment of the wound.
+Introduction of antibiotics. 	
+Introduction of rabies vaccine.
+Treatment of the wound with al­coholic iodine solution.
+Introduction of rabies vaccine.
+1
+A person bitten with wild dog reffered to surgical department. There are wide avulsed wounds onto  his  face. Which therapeutic and prophylactic aid should be given to prevent rabies?
+Patient hospitalization and medical supervision
+Injection of DPT vaccine immediately
+Combined antibioticotherapy
+Injection of human normal immunoglobulin
+to start immunization with antirabies vaccine
+to start immunization with antirabies vaccine
+1
+A student was hospitalized to an infectious department at the beginning of the disease. Infectious mononucleosis was suspected. Which result confirmed the diagnosis of this student on the day of hospitalization?
+Detecting antibodies to cytomegalovirus.	
+Detecting IgM-antibodies to herpes simplex virus.
+Detecting 4-time quantity increase of antibodies to Epstein-Barr virus.
+Detecting of herpes simplex virus.
+Detecting IgM antibodies to Epstein-Barr virus.
+Detecting IgM antibodies to Epstein-Barr virus.
+1
+A patient with clinical signs of encephalitis was delivered to the infectious disease hospital. Anamnesis registers a tick bite. Hemagglutination-inhibition reaction helped to reveal antibodies to causative agent of tick-borne encephalitis in the dilution 1:20 which is not diagnostic. What actions should the doctor take after he had got such result?
+To examine the same serum
+To apply more sensitive reaction
+To deny diagnosis of tick-borne encephalitis
+To repeat the examination with serum taken 10 days later
+To repeat examination with another diagnosticum
+To repeat the examination with serum taken 10 days later
+1
+A doctor revealed symptoms of encephalitis in a child, 8-year-old. What is possible way of child infection besides of tick bite?
+With  milk taken from infected goats
+Via direct contact with ill person
+Alimentary way
+By inhalation via dust
+By inhalation via droplets
+With  milk taken from infected goats
+1
+A patient with fever, sleepiness turned with insomnia, and meningeal signs was hospitalized to clinic. From anamnesis it is known he drank unboiled goat milk 2 weeks ago. A primary diagnosis “tick-borne encephalitis” was made. Blood was taken for investigation and was injected into suckling mouse. After 5 days animals have hind limb paralysis, respiratory failure and death. What examination allows to make final diagnosis?
+Virus isolation onto chicken embryo
+Neutralization test
+Color test
+Paired sera investigation with HA test
+Bioprobe is enough for diagnosis
+Neutralization test
+1
+A woman with clinical symptoms of encephalitis was consulted by infectious disease specialist. It is known from anamnesis she extracted tick from a leg a week ago. What methods should be used for isolation and identification of this virus?
+Infection of suckling mice, neutralization test, CFT, IHA test with chicken erythrocytes
+Infection of guinea pigs, agglutination test with encephalitis diagnosticum, PHA test
+Infection of chicken embryo, CFT, precipitation test, RIA
+Infection of cell culture, CFT, neutralization test, HA test
+PCR, CFT, precipitation test with antiviral antibody
+Infection of suckling mice, neutralization test, CFT, IHA test with chicken erythrocytes
+1
+A man, 65-year-old, is developed with progressive dementia with ataxy and sonmia, that allows to suspect Creutzfeldt-Jacob disease. Which infectious agent causes this disease?
+Bacteria
+Viruses
+Viroid
+Plasmids
+Prion 
+Prion 
+0

@@ -1,0 +1,528 @@
+A cell culture was infected with material collected from the patient, 4 years old, with suspicious enterovirus infection. Which kind of tissue culture consists of malignant cells and is capable of unlimited growth and multiplication?
+Continuous cell culture
+organ culture 
+primary cell culture
+diploid cell culture
+none from given
+Continuous cell culture
+1
+A patient with a very grave course of hepatitis B has been administered the examination for detecting the possible concomitant agent, which complicates the course of the basic disease. What agent is this?
+Delta-virus.	
+Hepatitis C virus.	
+Hepatitis G virus.
+Hepatitis E virus.
+HBs-antigen.
+HBs-antigen.
+1
+High-sensitivity methods are used for checking the presence of virus hepatitis B antigens in donors' blood. Which test should be used?
+Solid-phase enzyme immunoassay.  (ELISA)
+Complement fixation.
+Immunoelectrophoresis.
+Indirect hemagglutination. 	
+Indirect immunofluorescence.
+Solid-phase enzyme immunoassay.  (ELISA)
+1
+A patient is hospitalized with the previous diagnosis of hepatitis B. To diagnose the disease a  serological reaction based on interaction of antigen and antibody, chemically linked to peroxidase or alkaline phosphatase, was carried out. Name this reaction.
+Complement fixation test.
+Radioimmunoassay.
+Immunofluorescence test. 
+Enzyme immunoassay.
+Immobilization.	
+Enzyme immunoassay.
+1
+HBs-antigen has been revealed during enzyme immunoassay in serum. What infection can be diagnosed by this antigen detection?
+Syphilis. 			
+Virus hepatitis A.		
+AIDS.
+Tuberculosis.	
+Virus hepatitis B.
+Virus hepatitis B.
+1
+a patient (a dentist by profession) with signs of liver failure was hospitalized into infectious department. Which laboratory assay should be made to diagnose hepatitis B infection?
+HBs-Ag revealing into patient’s blood
+Virus isolation from patient’s stool
+Virus isolation from patient’s urine
+Detection of functional liver probes (bilirubin and cholesterol in the blood)
+Detection of the enzyme activity (aldolase, transaminase and others)
+HBs-Ag revealing into patient’s blood
+1
+Vaccination of dentists has been made due to professional indications. The vaccine has to prevent them from virus infection, a causative agent of which may be present into the blood of stomatological patients that either have had infection or be the chronic carriers. Which vaccine was used?
+Gene-engineered HBs-antigen
+Inactivated vaccine for hepatitis A prevention
+Alive measles vaccine
+Subunit influenza vaccine
+Anti-rabies vaccine 
+Gene-engineered HBs-antigen
+1
+Doctor M. of surgery department has been vaccinated for prevention of virus hepatitis B. Which marker is revealed into the serum after immunization against hepatitis B?
+Anti-HBs
+HBsAg
+Anti-HBe
+DNA of HBV
+HBcAg
+Anti-HBs
+1
+Dentists belong to a risk group of professional infection with hepatitis B. Indicate the effective way for specific active prevention of this disease among stomatologists:
+Injection of specific immunoglobulin
+Making all procedures in rubber gloves
+Vaccination with recombinant vaccine
+Injection of interferonogenes
+Reliable sterilization of medical instruments
+Vaccination with recombinant vaccine
+1
+Dentists belong to a risk group of professional infection with hepatitis B. Choose the reliable medicine for active prevention of this disease:
+recombinant vaccine with HBsAg
+alive hepatitis B vaccine 
+specific immunoglobulin
+antihepatitic serum
+monoclonal antibody to HBsAg
+recombinant vaccine with HBsAg
+1
+Medical staff of dental clinic must be vaccinated against virus hepatitis B by creation of artificial active immunity. Which medicine must be used?
+Inactivated virus has been grown into chicken embryo
+?-globulin from donor blood
+Specific immunoglobulin
+Monoclonal antibody
+Recombinant vaccine from viral antigens
+Inactivated virus has been grown into chicken embryo
+1
+Modern diagnostics of hepatitis B infection is made by viral DNA detection in the patient’s blood. Which from given test is it made with?
+Complement fixation test
+Passive hemagglutination test
+Polymerase chain reaction
+ELISA 
+Inhibition of hemagglutination test
+Polymerase chain reaction
+1
+A patient with viral hepatitis A was admitted to an infectious hospital. What antibodies will be synthesized first in response to this virus reproduction?
+IgA.	
+IgG.		
+IgM.		
+IgD.		
+IgE.
+IgM.
+1
+A gene of hepatis B virus responsible for HBsAg production has been integrated with variolavaccine viral genome. Recombinant virus is planned to use as medicine for immunization. Which type does this vaccine belong to?
+Combine
+Gene-engineering
+Associated
+Synthetic
+Chemical 
+Gene-engineering
+1
+Rather often the cause of acquired immunodeficiencies is the infectious damage of organism which is characterized by causative agents' reproduction directly in immune system cells and destruction of these cells. Choose such disease among given below.
+infectious mononucleosis, AIDS.				
+tuberculosis, mycobacteriosis		
+Poliomyelitis, hepatitis A infection.
+Cholera, shigellosis.	
+Epidemic typhus, Q-fever
+infectious mononucleosis, AIDS.				
+1
+A patient, 20-years-old, has been diagnosed with HIV-infection. What population of cells is the most sensitive to HIV?
+Hepatocytes
+T-helpers
+Endothelial cells
+Epithelial cells
+B-cells
+T-helpers
+1
+Human immunodeficiency virus, having on its surface antigens gp41 and gpl20, interacts with the target cells of an organism. Which human lymphocytes marker can be complementary connected with gpl20 of the virus?
+CD 4.	
+CD 3.	
+CD 8.	
+CD 19.		
+CD 28.
+CD 4.
+1
+Blood serum examination of a patient with signs of immunodeficiency has shown antibodies to proteins gpl20 and gp41. Which disease is confirmed by this result?
+TORCH-infection 
+HLTV-1-infection.
+HIV-infection.	
+HBV-infection.
+ECHO-virus infection.
+HIV-infection.	
+1
+Acquired immunodeficiency syndrome (AIDS) is caused by human immunodeficiency virus. What cells of human body are target for this virus?
+plasma cells.	
+eosinophiles .	
+natural killers (NK-cells).
+basophiles .	
+T-helper cells.
+T-helper cells.
+1
+It is known that human immunodeficiency virus belongs to Retroviridae family. What basic feature characterizes this family?
+Simple viruses, which affect only human beings.
+Contain RNA of negative polarity.
+Presence of reverse transcriptase enzyme.
+Nucleic acid does not integrate into the genome of the host. 
+DNA-containing viruses which cause chronic infections.
+Presence of reverse transcriptase enzyme.
+1
+A young man appealed to anonymous cabinet for diagnosis of HIV-infection first time. Which test can be used for diagnosis of HIV-infection at this patient?
+Immunoenzyme assay (ELISA)
+Immunoblotting test
+Radioimmune assay
+Immune-electron microscopy
+Immunofluorescence test
+Immunoenzyme assay (ELISA)
+1
+There is a laboratory for diagnosis of HIV-infection in the large dental department. What diagnostic kits should be such laboratory equipped with?
+Cell cultures for virus isolation
+Test-systems for antibody detection with ELISA
+Special nutrient media kits
+Standard diagnostic sera 
+I don't know
+Test-systems for antibody detection with ELISA
+1
+A patient with reccurent and resistant to therapy oral candidasis appealed to dentist for medical aid. It was revealed he had been having fever and weight loss for long time before. What investigation should be made in this case?
+Immunological and serological testing for HIV-infection
+Bacteriological tests for disbiosis
+Isolate pure culture of causative agent and detect its sensitivity to antibiotics
+Check the state of humoral immunity
+Detect the amount of specific antibody to Candida 
+Immunological and serological testing for HIV-infection
+1
+For diagnostics of HIV-infection blood serum is tested by revealing of special antigen with ELISA. What enzyme-linked antibody is used in this case?
+Against protein gp41
+Against protein p24
+Against protein gp120
+Against protein p17
+Against human immunoglobulin 
+Against human immunoglobulin 
+1
+Which method of donor blood checking has to be used to ensure absence of HIV in it?
+Revealing of viral nucleic acid
+Revealing of virus by infection of lymphocyte culture
+Revealing of IgM antibody
+Electron microscopy of T4 lymphocytes
+Revealing of causative agent antigens
+Revealing of viral nucleic acid
+1
+During immunoblot analysis protein gp120 has been revealed in blood serum. What infection can be diagnosed by this antigen detecting?
+Virus hepatitis B. 
+HIV-infection.	
+Tuberculosis.
+Syphilis.	
+Poliomyelitis.
+HIV-infection.	
+1
+Medical meeting was hold after revealing some cases of HIV infection among patients of dental clinics and rooms at which epidemiologists from Center of HIV-infection prophylaxis spoke about recommendation. Which measures of prevention could be recommended for dentists to prevent professional infection?
+To work in individual protectors (gloves, glasses)
+To wash hands after examination of each patient
+To use new sterile tool set for each patient
+To require a medical certificate from each patient
+To disinfect a room with quartz lamp
+To work in individual protectors (gloves, glasses)
+1
+HIV-infected woman gave a birth for baby in probationary department of maternity hospital.  Which from the listed diagnostics methods of HIV-infection is the most reasonable for this baby?
+Polymerase chain reaction (PCR)
+ELISA
+Neutralization test
+Complement fixation test
+Radioimmune assay
+Polymerase chain reaction (PCR)
+1
+Which stage of HIV-infection is person a source of infection at?
+At all stages of infection
+Acute HIV-infection
+Chronic (latent)   HIV-infection
+Persistent generalized HIV-infection
+AIDS-associated complex
+At all stages of infection
+1
+After examining of the patient with aphthous stomatitis with corresponding candidiasis a stomatologist has decided to exclude HIV-infection. Which assay is helpful for clearing of this case and for primary diagnosis?
+Phase-contrast microscopy
+Gel precipitation test
+Immunoenzyme assay
+Inhibition of hemagglutination test
+Hemagglutination test
+Immunoenzyme assay
+1
+A patient, which applied to hospital for results of ELISA, was given with primary diagnosis of HIV-infection. Which serological test should be used for confirmation of diagnosis?
+Immunoblotting
+Agglutination test
+Complement fixation test
+Thermoprecipitation test
+Immunofluorescence test
+Immunoblotting
+1
+During checking the donors' blood at a hemotransfusion station antibodies to human immunodeficiency virus have been revealed in the serum. What method is recommended for the confirmation of HIV-infection diagnosis?
+Complement fixation test. 	
+Electron microscopy.
+Western blotting (immunoblotting). 
+Immunofluorescence test.
+Radioimmunoassay
+Western blotting (immunoblotting). 
+1
+A patient with unknown fever, immunodeficiency state, gastrointestinal disorders nd nervous system failure has been given with diagnosis “AIDS”. Which methods of laboratory diagnostics have to be used for confirmation of diagnosis?
+Polymerase chain reaction, immunoblot, immunoenzyme assay
+Complement fixation test
+Agglutination test
+Hemadsoption test
+Hemagglutination test
+Polymerase chain reaction, immunoblot, immunoenzyme assay
+1
+A patient has been prescribed a combination of preparations, which inhibit HIV reproduction in the specialized clinic. To what group do the preparations, which are obligatory used in complex antiviral treatment, belong?
+Interleukin. 
+Broad spectrum antibiotics.
+Nucleosides analogs. 	
+Nystatin.
+Biseptol.
+Nucleosides analogs.
+1
+HIV-infected patient is examined time to time to estimate the signs of process activation. Name the most important sign that arise at AIDS development.
+Number of neutrophiles is getting less
+Kaposi’s sarcoma. T-helpers number is less then critical data
+T-suppressor number is getting higher
+T-helpers number is less then critical data
+Revealing of antibody to gp41
+Kaposi’s sarcoma. T-helpers number is less then critical data
+1
+A woman, 32 years old, has been suffering from recurrent virus infection. A disease appears as vesicular rash on the lips and in the oral cavity, corresponds with fever and general intoxication. Which medicine should be used for specific prevention of relapses at this disease?
+Herpetic inactivated vaccine
+Interferon
+Lysozyme
+Acyclovir
+Donor gamma-globulin
+Herpetic inactivated vaccine
+1
+A patient applied to dentist with complaints of painful, reddening and edema of gums. Herpetic gingivostomatitis was suspected. What kind of  virus can cause this disease?
+Herpes simple virus  type I
+Herpes simple virus  type II
+Herpes zoster virus
+Cytomegalovirus
+Epstein-Barr virus
+Herpes simple virus  type I
+1
+Patient’s serum was tested for revealing specific antibody of definite class for diagnosis of generalized herpetic infection. Which class of antibody indicates the initial stage of infection?
+IgG
+IgM
+IgE
+IgA
+IgD
+IgM
+1
+A patient has fever and vesicles located at the margin of skin and mucous membrane. Which method of laboratory assay will be helpful to confirm a presence of the herpes simple virus into patient?s body?
+Virological and biological
+Virological and serological
+serological and biological
+microscopic and allergic test
+microscopic and biological
+Virological and biological
+1
+A patient has complains onto painful vesicles localized on the margin between lips and mucous membrane. What kind of microorganisms could cause such pathology?
+Mycobacteria
+Streptococci
+Herpes viruses
+Orthomyxoviruses
+Staphylococci
+Herpes viruses
+1
+After supercooling patient has herpetic rash on his nares and upper lip. The ointment is used for treatment. Which antiviral medicine does this ointment contain?
+Interferon
+Azidothymidine
+Indomethacine
+Dexamethasone
+Acyclovir
+Acyclovir
+1
+Antibody to Epstein-Barr virus has been found in patient with infectious mononucleosis. Which from the listed below mechanisms of transmission is the most usual for this causative agent?
+By inhalation (via air drops)
+By ingestion
+By direct contact
+By sexual intercourse
+By parenteral way
+By inhalation (via air drops)
+1
+There were some cases of infection in the kindergarten. Clinical appearance was with such symptoms as: fever and vesicular rash into fauces, oral cavity and skin. The primary diagnosis was chicken pox. Which from named clinical samples should be sent to laboratory for express-diagnostics?
+Vesicle content
+Sputum
+Hand washing
+Urine
+Bile 
+Vesicle content
+1
+The influenza virus with jumped (severe changed) surface glycoprotein receptors (hemagglutinin and neuraminidase) has been isolated from patients, inhabitants of South-East Asia, with acute respiratory infection. Laboratory staff considered   this virus as virus with high pandemic possibility. Which process can be result of arising this antigenic variant of the flu virus?
+Antigenic shift
+Antigenic drift
+Conjugation
+Transduction
+Transformation
+Antigenic shift
+1
+Influenza virus contains internal antigens — nucleoprotein (NP), polymerase (PI, P2, P3), matrix protein (M), and surface antigens — hemagglutinin (H) and neuraminidase (N). Which of them play the basic role in the creation of the immunity to influenza infection?
+Hemagglutinin and neuraminidase. 
+Nucleoprotein antigens.
+Matrix protein.			
+Polymerase proteins.	
+Neuraminidase and nucleoprotein.
+Hemagglutinin and neuraminidase. 
+1
+A man, 32 years old, has had “flu-like syndrome” with fever, headache, and throat and muscle pain. Which from the listed is the best sample for isolation of virus – causative agent of this infection?
+Nasopharyngeal washing
+Feces
+Urine
+Blood
+Saliva
+Nasopharyngeal washing
+1
+Pathological sample (nasopharyngeal washing) was collected from the patient with suspected influenza. It was inoculated on the chorion-allantoic membrane of the chicken embryo. Which way is the most reliable to prove the presence of the flu virus exactly in the allantoic fluid?
+Precipitation
+Agglutination
+Hemadsorption
+Hemagglutination
+Hemolysis
+Hemagglutination
+1
+A patient suffering from pneumonia arisen on the 6th day after influenza infection is admitted to infectious department. Which method is the most reliable for confirmation of influenza pneumonia?
+The detection of the flu virus antigens  into the sputum with ELISA
+The paired sera investigation
+Infection of chicken embryo
+Immunofluorescence assay of print smears taken from the patient’s nose
+Antiviral hemagglutinin antibody detection
+The detection of the flu virus antigens  into the sputum with ELISA
+1
+During outbreak of acute respiratory infection rapid (express) diagnostics of the flu is made. It is based onto specific viral antigen revealing in the clinical samples (nasopharengeal washing). What serological test is used for it?
+Opsonization
+Complement fixation
+Agglutination
+Precipitation
+Immunofluorescence
+Immunofluorescence
+1
+Serological diagnostics of the flu is made by rising specific antibody titer to causative agent in the patient serum. How many times should antibody titer rise in paired serum for reliable diagnosis?
+3
+2
+1
+4 and more
+0.5
+4 and more
+1
+There is a flu epidemic in a city. Which preparation could be recommended to prevent this disease for a child as nasal drops?
+Remantadin.	
+Ampicillin
+Interferon
+Paracetamol
+Acyclovir .
+Interferon
+1
+An epidemiologist  in charge of immunization program makes the list of preparations for medical staff immunization before season influenza epidemic. Which one of the following should be used for immunization?
+Subunit vaccine.	
+interferon		
+amantadine.
+?-globulin.	
+remantadine .
+Subunit vaccine.	
+1
+A doctor in charge of immunization program makes the list of preparations to prevent a season influenza epidemic. Which one of the following is the least allergenic and the most likely to develop active specific immunity?
+Subunit vaccine.	
+Live vaccine.		
+Killed vaccine.
+Donor ?-globulin.	
+?-interferon.
+Subunit vaccine.
+1
+In the kindergarden a child has fallen ill with measles. Which medicine can be useful to prevent outbreak of measles in the group?
+Normal human immunoglobulin
+Measles vaccine
+Sulfonamides
+Interferon
+Antibiotics
+Normal human immunoglobulin
+1
+A child, 7 years old, fell ill suddenly. During examination a pediatrician noticed that faucial mucous membrane was hyperemic, edematous and was covered with large amount of mucus. There were whitish spots onto the mucous membrane of the chicks. After day maculated rash appears onto the skin of child?s face, neck and chest. Which disease may it think about?
+allergic dermatitis
+scarlet fever
+diphtheria
+measles
+meningococcemia
+measles
+1
+A child, 5-years-old, has been given with diagnosis of mumps after examination by stomatologist. Which from given ways can this disease be transmitted?
+Via vectors
+Via air droplets
+Via biting by animal
+By fecal-oral route
+By parenteral route
+Via air droplets
+1
+A 10 days” chicken embryo is used for isolation of influenza virus. Which model is used for cultivation of parainfluenza virus?
+Tissue cultures
+Chicken embryo
+White mice
+White rats
+Rabbits
+Tissue cultures
+1
+For poliomyelitis serologic diagnostics paired serum samples of a patient are being examined. What should be used as antigen during virus neutralization test of cytopathic effect?
+Antigens of virus capsid proteins.	
+Viral complement-fixing antigens.
+viruses  inactivated by formalin.	
+Antigens-hemagglutinins.
+Live viruses of three types.
+Live viruses of three types.
+1
+From a 5-year-old patient poliovirus was isolated from mucous membrane of his nasopharynx and tonsils at the fifth day of disease. Which test has to be used for detection of serotype of causative agent?
+Indirect hemagglutination test
+Complement fixation test
+Inhibition of hemadsorbtion
+Inhibition of hemagglutination
+Neutralization of cytopathic effect.	
+Neutralization of cytopathic effect.	
+1
+From a patient with acute intestinal infection enterovirus was obtained. To detect the serotype of the virus diagnostic sera were used. Which antibodies must the serums contain?
+To proteins of supercapsid.		
+To proteins of capsid.
+To non-structural virus proteins.	
+To virus enzymes.
+To virus hemagglutinin.
+To proteins of capsid.
+1
+The patient (a dairymaid) has visited a stomatologist. She complained of aphthae rash on the oral mucosa.  A doctor has noticed rash on her skin surrounding nails. Which causative agent caused this disease?
+herpes virus
+Cytomegalovirus
+Coxsackie B virus
+Foot-and-mouth disease virus
+virus of vesicular stomatitis
+Foot-and-mouth disease virus
+1
+The first vaccination against poliomyelitis should be done at 3 month's age with the use of Sabin (alive) vaccine. What class of immunoglobulins does not take part in postvaccinal immunity formation in this case?
+IgG.	
+IgE.
+IgA secretory.	
+IgM.
+IgA serum.
+IgE.
+1
+The feces of patient with suspected enteric infection has been prepared for virus isolation. Then primary and continuous cell cultures were infected with virus. After 2-3 days cytopathic effect (CPE) was revealed in infected cultures. Which way is virus identification made?
+With immunofluorescence test
+With neutralization of CPE
+With inhibition of hemagglutination test
+With agglutination test
+With precipitation test
+With neutralization of CPE
+1
+A patient has been bitten by a dog. The dog was caught, and it was established that the animal is ill with rabies. What vaccine is to be used for specific prevention of rabies of this patient?
+Live. 	
+Toxoid.	
+Chemical.
+Recombinant.	
+Synthetic.
+Live. 	
+1
+A person had bitten with wild dog referred to surgical department. There are wide avulsed wounds onto  his  face. Which therapeutic and prophylactic aid should be given to prevent rabies?
+Patient hospitalization and medical supervision
+Injection of DPT vaccine immediately
+Combined antibioticotherapy
+Injection of human normal immunoglobulin
+to start immunization with antirabies vaccine
+to start immunization with antirabies vaccine
+1
+Vesicle content taken from patient’s  mucous membrane in suspected case of smallpox was sent to virological laboratory. What changes from given later will be revealed under microscopy?
+Synsitium
+Babes-Negri inclusion body
+Symplasts
+Babes-Ernst inclusions
+Paschen's corpuscles 
+Paschen's corpuscles 
+0
